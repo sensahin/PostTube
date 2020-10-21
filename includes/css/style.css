@@ -1,0 +1,131 @@
+#wpfooter{
+	display: none !important;
+}
+
+.datatable.datatable-default > .datatable-table > .datatable-body .datatable-row > .datatable-cell:first-child span {
+	width: 25px !important;
+}
+.card-body {
+    font-size: 16px;
+}
+body
+{
+	background:none;
+}
+.card 
+{
+	max-width:2000px;
+	height: 100% !important;
+	border:none !important;
+	box-shadow:none !important;
+}
+.card-label {
+    font-size: 24px !important;
+}
+
+.p-12 {
+    padding-left: 1.5rem !important;
+}
+
+.container {
+    background-color: white;
+    height: 100%;
+    padding: 0px;
+}
+
+.fileUploadWrap {
+    position: relative;
+}
+
+.fileName-key,
+.fileName-image {
+    position: absolute;
+    font-weight: 900;
+    left: 160px;
+    top: 10px;
+    pointer-events: none;
+}
+
+#file-key,
+#file-image {
+    margin-left: -150px;
+    opacity: 0;
+}
+
+.tagValue {
+    margin-top: 2px;
+    font-size: small !important;
+}
+
+.nav-link {
+    background: white;
+}
+
+.tagName {
+    font-size: 1rem;
+}
+
+.btn-save {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 80px;
+}
+
+.page-0-row {
+    margin-top: 15px;
+    margin-left: 0px !important;
+}
+
+.small_text {
+    font-style: italic;
+    font-weight: 600;
+    font-size: 12px;
+}
+
+.radio-text {
+    font-size: 16px;
+}
+
+@media (min-width: 1199.98px) {
+    .gutter-b {
+        width: 370px !important;
+    }
+}
+
+.card.card-custom.card-stretch.gutter-b {
+    margin: auto;
+	
+}
+
+.wp-core-ui select {
+    max-width: 45rem !important;
+}
+
+.page-2 .row {
+    margin-right: 0px !important;
+}
+
+
+.datatable-row td span
+{
+    width: 158px;
+}
+.datatable-row td:first-child span
+{
+    width: 25px !important;
+}
+
+.datatable-cell
+{
+    width: 200px;
+}
+
+.datatable-row td:first-child 
+{
+    width: 38px !important;
+}
+
+.datatable-row th:first-child 
+{
+    width: 38px !important;
+}
